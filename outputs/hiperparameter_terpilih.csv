@@ -1,0 +1,13 @@
+,snapshot,model,params
+0,10,LogisticRegression,{'clf__C': 0.1}
+1,10,RandomForest,"{'max_depth': 4, 'max_features': 'sqrt', 'min_samples_leaf': 5, 'n_estimators': 600}"
+2,10,XGBoost,"{'learning_rate': 0.03, 'max_depth': 2, 'n_estimators': 200, 'reg_lambda': 5.0, 'subsample': 1.0}"
+3,15,LogisticRegression,{'clf__C': 0.01}
+4,15,RandomForest,"{'max_depth': 4, 'max_features': 'sqrt', 'min_samples_leaf': 5, 'n_estimators': 600}"
+5,15,XGBoost,"{'learning_rate': 0.03, 'max_depth': 5, 'n_estimators': 200, 'reg_lambda': 5.0, 'subsample': 1.0}"
+6,20,LogisticRegression,{'clf__C': 0.1}
+7,20,RandomForest,"{'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 5, 'n_estimators': 600}"
+8,20,XGBoost,"{'learning_rate': 0.03, 'max_depth': 2, 'n_estimators': 200, 'reg_lambda': 5.0, 'subsample': 0.8}"
+9,25,LogisticRegression,{'clf__C': 0.01}
+10,25,RandomForest,"{'max_depth': 4, 'max_features': 'sqrt', 'min_samples_leaf': 5, 'n_estimators': 300}"
+11,25,XGBoost,"{'learning_rate': 0.03, 'max_depth': 2, 'n_estimators': 200, 'reg_lambda': 5.0, 'subsample': 0.8}"

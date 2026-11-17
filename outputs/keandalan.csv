@@ -1,0 +1,4 @@
+,model,snapshot_andal,auc_t10,auc_t15,auc_t20,auc_t25
+0,LogisticRegression,25,0.7141,0.7642,0.8423,0.9065
+1,RandomForest,25,0.7024,0.7531,0.8477,0.9049
+2,XGBoost,25,0.6825,0.7254,0.8439,0.905

@@ -1,0 +1,13 @@
+snapshot,model,acc_reguler,acc_playoff,selisih,lebar_ci_playoff,layak_dibahas
+10,LogisticRegression,0.6483,0.6066,-0.0417,0.2381,False
+10,RandomForest,0.6966,0.6557,-0.0408,0.232,False
+10,XGBoost,0.6621,0.6721,0.0101,0.2294,False
+15,LogisticRegression,0.6621,0.7049,0.0428,0.2233,False
+15,RandomForest,0.6483,0.6885,0.0402,0.2265,False
+15,XGBoost,0.6552,0.6885,0.0334,0.2265,False
+20,LogisticRegression,0.7172,0.7869,0.0696,0.2022,False
+20,RandomForest,0.7379,0.8197,0.0817,0.191,False
+20,XGBoost,0.7379,0.7705,0.0326,0.2072,False
+25,LogisticRegression,0.773,0.9167,0.1436,0.1446,True
+25,RandomForest,0.766,0.9333,0.1674,0.133,True
+25,XGBoost,0.7801,0.9333,0.1532,0.133,True
